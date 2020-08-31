@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "/Users/leiyang/opt/anaconda3/bin/python"
+    "python.pythonPath": "/Users/leiyang/opt/anaconda3/bin/python",
+    "files.associations": {
+        "vector": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "map": "cpp"
+    }
 }
