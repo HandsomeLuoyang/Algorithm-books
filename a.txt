@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\86178\Desktop\Algorithm-books\蓝桥杯\历届试题\试题 历届试题 合根植物.py", line 38, in <module>
-    big_list[visited[right]].add(left)
-IndexError: list index out of range
