@@ -2,6 +2,7 @@
     "python.pythonPath": "/Users/leiyang/opt/anaconda3/bin/python",
     "files.associations": {
         "string": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "vector": "cpp"
     }
 }
