@@ -1,8 +1,9 @@
 {
-    "python.pythonPath": "/Users/leiyang/opt/anaconda3/envs/crawler_env/bin/python",
+    "python.pythonPath": "/Users/leiyang/opt/anaconda3/bin/python",
     "files.associations": {
         "string": "cpp",
         "algorithm": "cpp",
         "vector": "cpp"
-    }
+    },
+    "python.formatting.provider": "black"
 }
